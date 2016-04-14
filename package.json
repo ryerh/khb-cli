@@ -1,0 +1,22 @@
+{
+  "name": "khb-cli",
+  "version": "0.0.1",
+  "description": "boilerplates generator",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryerh/khb-cli.git"
+  },
+  "keywords": [
+    "khb"
+  ],
+  "author": "ryerh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryerh/khb-cli/issues"
+  },
+  "homepage": "https://github.com/ryerh/khb-cli#readme"
+}
